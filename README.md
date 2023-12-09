@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-_In 2D and 3D graphics ecosystems on the web — like [three.js](https://threejs.org/), [React Three Fiber](https://docs.pmnd.rs/react-three-fiber/), and [A-Frame](https://aframe.io/) — my work lets developers be more productive, makes engines faster and more powerful, and enables artists to enjoy creative and flexible art workflows. If my work is helpful to you, [please consider sponsoring me](https://github.com/sponsors/donmccurdy). Thank you!_
+_In 2D and 3D graphics ecosystems on the web — like [three.js](https://threejs.org/), [React Three Fiber](https://docs.pmnd.rs/react-three-fiber/), and [A-Frame](https://aframe.io/) — my work lets developers be more productive, makes engines faster and more powerful, and enables artists to enjoy creative and flexible art workflows. If my work is helpful to you, [please consider sponsoring me](https://github.com/sponsors/donmccurdy). For technical support, please see my current [availability](https://www.donmccurdy.com/availability/). Thank you!_
 
 <!--
 **donmccurdy/donmccurdy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
